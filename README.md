@@ -1,4 +1,7 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/1dca2512-d1ca-46c2-97ec-156a6b59ef62"><br>
-  <br>
-  <b>QUIRREL</b><br>
+</p>
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/1e288f06-4eb1-4a3d-b514-7cc95542ecd7"/>
+</p>
+  <p align="center">
+  <a href="https://quirreler.straw.page">strawpage</a> 𓏵 <a href="https://example.link">no link yet!</a>
+    </p>
