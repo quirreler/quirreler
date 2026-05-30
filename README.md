@@ -3,5 +3,5 @@
   <img src="https://github.com/user-attachments/assets/1e288f06-4eb1-4a3d-b514-7cc95542ecd7"/>
 </p>
   <p align="center">
-  <a href="https://quirreler.straw.page">strawpage</a> 𓏵 <a href="https://example.link">no link yet!</a>
+  <a href="https://quirreler.straw.page">strawpage</a>
     </p>
